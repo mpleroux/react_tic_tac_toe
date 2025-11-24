@@ -6,9 +6,9 @@ These are the local files I created while following the React.dev tutorial [Tic-
 
 I created the project from scratch using Vite instead of the in-browser development environment. There were only a handful of CSS styles to copy from the sandbox files download into my new project.
 
-The tutorial was well written and easy to follow. The tutorial was more about game mechanics than React concepts, but that's an effective way to introduce people to it. I'm impressed by the overall quality of all the documentation on the React website.
+The tutorial was well written and easy to follow. It was more about game mechanics than React concepts, but that's an effective way to introduce people to React. Overall I'm impressed by the quality of the documentation on the React website.
 
-I plan to circle back to this tutorial and make the enhancements it suggests in the final section. In addition I would like to:
+I plan to circle back and make the enhancements suggested in the final section. In addition I would like to:
 
 - Report when the game ends in a tie
 - Add a button that clears the move history and resets the game
