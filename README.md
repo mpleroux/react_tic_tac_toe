@@ -17,7 +17,7 @@ I plan to circle back and make the enhancements suggested in the final section. 
 
 - JavaScript
 - Vite
-- React 4
+- React 19
 
 ## Create Vite app
 
