@@ -8,11 +8,6 @@ I created the project from scratch using Vite instead of the in-browser developm
 
 The tutorial was well written and easy to follow. It was more about game mechanics than React concepts, but that's an effective way to introduce people to React. Overall I'm impressed by the quality of the documentation on the React website.
 
-I plan to circle back and make the enhancements suggested in the final section. In addition I would like to:
-
-- Report when the game ends in a tie
-- Add a button that clears the move history and resets the game
-
 ## Technologies used
 
 - JavaScript
@@ -62,6 +57,20 @@ Copied default Vite project assets, HTML, CSS into `old` folders and cleared out
 Downloaded tutorial sandbox by following instructions at [Setup for the Tutorial](https://react.dev/learn/tutorial-tic-tac-toe#setup-for-the-tutorial)
 
 Replaced `index.css` with sandbox CSS
+
+## Improvements
+
+From the [final section](https://react.dev/learn/tutorial-tic-tac-toe#wrapping-up) of the tutorial:
+
+- [ ] For the current move only, show “You are at move #…” instead of a button
+- [ ] Rewrite board to use two loops to make the squares instead of hardcoding them
+- [ ] Add a toggle button that lets you sort the moves in either ascending or descending order
+- [ ] When someone wins, highlight the three squares that caused the win (and when no one wins, display a message about the result being a draw)
+- [ ] Display the location for each move in the format (row, col) in the move history list
+
+In addition:
+
+- [ ] Add a button that clears the move history and resets the game
 
 ## Screenshot
 
