@@ -48,11 +48,7 @@ export default defineConfig({
 });
 ```
 
-Copied default Vite project assets, HTML, CSS into `old` folders and cleared out code for new project:
-
-- src/App.css
-- src/App.jsx
-- src/index.css
+Copied default Vite project assets, HTML, CSS into `old` folder and cleared out code for new project
 
 Downloaded tutorial sandbox by following instructions at [Setup for the Tutorial](https://react.dev/learn/tutorial-tic-tac-toe#setup-for-the-tutorial)
 
